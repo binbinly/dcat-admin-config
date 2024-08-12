@@ -1,7 +1,7 @@
 {
     "name": "binbinly/dcat-admin-config",
     "alias": "",
-    "description": "Description...",
+    "description": "dcat-admin-ext config",
     "type": "library",
     "keywords": ["dcat-admin", "config", "extension"],
     "homepage": "https://github.com/binbinly/dcat-admin-config",
