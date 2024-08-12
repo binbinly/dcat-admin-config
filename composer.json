@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dcat\\Admin\\Config\\": "src/"
+            "AdminExtConfig\\": "src/"
         }
     },
     "extra": {
